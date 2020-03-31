@@ -1,4 +1,4 @@
-Matlab code for the TV-based Image Processing Framework for Blind Color Deconvolution and Classification of Histological Images.
+Matlab code for the TV-based Image Processing Framework for Blind Color Deconvolution and Classification of Histological Images. See example.m for an use case over a single H&E image
 
 Full reference:\
 F. Pérez-Bueno, M. López-Pérez, M. Vega, J. Mateos, V. Naranjo, R. Molina,  and  A.K. Katsaggelos\
@@ -20,4 +20,4 @@ In digital histopathological image analysis, two conflicting objectives are ofte
 }
 
 
-See example.m for an use case over a single H&E image
+
